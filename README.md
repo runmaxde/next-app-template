@@ -1,1 +1,1 @@
-# runmaxde/create-next-app-template
+# create-next-app-template
